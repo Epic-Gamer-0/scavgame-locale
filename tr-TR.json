@@ -3417,7 +3417,7 @@
                 "Çık. Hemen.",
                 "Git! Defol burdan!",
                 "Kapsülümü terk et.",
-                "Burayı terk et, burayı terk et ananın amını sikerim!",
+                "Burayı terk et, burayı terk et!",
                 "Defol!",
                 "Yüzüm görmesin seni.",
                 "Defol git lan burdan!",
@@ -3623,14 +3623,14 @@
                 "Here's your reward."
             ],
             "traderbuyfail": [
-                "No.",
-                "Hayır kurumumu burası orospu çocuğu.",
-                "I don't give out things for free.",
-                "Pay up first.",
-                "I'm not giving you anything without an appropriate return.",
+                "Olmaz.",
+                "Ben hayır kurumu değilim.",
+                "Bedavaya eşya dağıtmıyoruz hadi yallah.",
+                "İlk önce parasını ver.",
+                "Uygun bir karşılığı olmadan sana biçbir şey vermeyeceğim.",
                 "Sence burası hayır kurumunamı benziyor?",
-                "You're joking.",
-                "How insulting."
+                "Taşşak geçiyor olmalısın.",
+                "Ne kadar aşağılayıcı."
             ],
             "traderbuyfailmaxvalue": [
                 "Enough trading for today. You've bought out a lot already.",
@@ -3639,7 +3639,7 @@
             "traderthreatensuccess": [
                 "It is not in my interests to get hurt. Take whatever and leave.",
                 "Fine. Take your pick and please exit my pod.",
-                "I hope misfortune awaits you. Fine. Take it and leave.",
+                "Allah belanı versin, tamam hadi al git.",
                 "You are a horrible person, you know that?",
                 "So this is how you solve issues. Mhm. Fine.",
                 "Did it really have to come to this? You know better... Ugh. Fine.",
